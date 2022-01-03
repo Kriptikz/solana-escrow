@@ -1,2 +1,7 @@
-/target
-Cargo.lock
+/*-dump.txt
+/*.so
+/target/
+test-ledger
+build
+node_modules
+.DS_STORE
